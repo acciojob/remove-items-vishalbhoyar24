@@ -6,4 +6,4 @@ button.addEventListener("click", removeElement)
 
 function removeElement(){
     div.remove(div.selectedIndex);
- };
+ }
